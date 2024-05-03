@@ -37,10 +37,10 @@ The application uses the [ExchangeRate API](https://www.exchangerate-api.com/) t
 
 ## How to Use
 
-1. **Clone the Repository**: `git clone https://github.com/your/repository.git`
+1. **Clone the Repository**: `git clone https://github.com/lucasagw/one-t6-challenge-currency-converter`
 2. **Navigate to the Project Directory**: `cd currency-converter`
 3. **Compile the Java Files**: `javac *.java`
-4. **Run the Application**: `java CurrencyConverterMenu`
+4. **Run the Application**: `java Program`
 
 ## Usage Instructions
 
