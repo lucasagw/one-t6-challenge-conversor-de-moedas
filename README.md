@@ -51,14 +51,8 @@ The application uses the [ExchangeRate API](https://www.exchangerate-api.com/) t
 
 ## Example
 
-======= Currency Converter Options =======
-1. US Dollar (USD) =>> Euro (EUR)
-2. US Dollar (USD) =>> Japanese Yen (JPY)
-3. US Dollar (USD) =>> British Pound (GBP)
-   ....
-35. Brazilian Real (BRL) =>> Swiss Franc (CHF)
-36. Brazilian Real (BRL) =>> Australian Dollar (AUD)
-0. Exit the program
+<img src="https://i.ibb.co/XLzHGCG/display-menu-1.jpg" alt="display-menu-1" border="0">
+<img src="https://i.ibb.co/0M5qrp1/display-menu-2.jpg" alt="display-menu-2" border="0">
 
 ## Author
 Lucas Augusto Walter
