@@ -59,7 +59,6 @@ The application uses the [ExchangeRate API](https://www.exchangerate-api.com/) t
 35. Brazilian Real (BRL) =>> Swiss Franc (CHF)
 36. Brazilian Real (BRL) =>> Australian Dollar (AUD)
 0. Exit the program
-=========================================
 
 ## Author
 Lucas Augusto Walter
