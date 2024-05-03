@@ -15,7 +15,7 @@ This Java application allows you to perform currency conversions between major w
 
 ## Main Currencies
 
-As principais moedas do mundo em termos de uso e importância econômica são:
+The main currencies of the world in terms of usage and economic importance are:
 
 1. US Dollar (USD)
 2. Euro (EUR)
@@ -55,7 +55,7 @@ The application uses the [ExchangeRate API](https://www.exchangerate-api.com/) t
 1. US Dollar (USD) =>> Euro (EUR)
 2. US Dollar (USD) =>> Japanese Yen (JPY)
 3. US Dollar (USD) =>> British Pound (GBP)
-...
+   ....
 35. Brazilian Real (BRL) =>> Swiss Franc (CHF)
 36. Brazilian Real (BRL) =>> Australian Dollar (AUD)
 0. Exit the program
