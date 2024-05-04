@@ -53,6 +53,7 @@ The application uses the [ExchangeRate API](https://www.exchangerate-api.com/) t
 
 <img src="https://i.ibb.co/XLzHGCG/display-menu-1.jpg" alt="display-menu-1" border="0">
 <img src="https://i.ibb.co/0M5qrp1/display-menu-2.jpg" alt="display-menu-2" border="0">
+<img src="https://i.ibb.co/McqYmTv/display-menu-3.jpg" alt="display-menu-3" border="0">
 
 ## Author
 Lucas Augusto Walter
